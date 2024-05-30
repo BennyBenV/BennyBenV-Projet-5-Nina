@@ -1,15 +1,3 @@
-@font-face {
-	font-family: 'Spectral';
-	src: url('../assets/Spectral/Spectral-Regular.woff') format('woof');
-
-}
-
-
-@font-face {
-	font-family: 'Inter';
-	src: url('/assets/Inter/static/Inter-Regular.woff') format('woff');
-
-}
 
 body {
 	max-width: 1920px;
